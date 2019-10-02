@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>charles-ssl-proxying-certificate.cer</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIFPjCCBCagAwIBAgIGAWz26EXHMA0GCSqGSIb3DQEBCwUAMIGj
+			MTQwMgYDVQQDDCtDaGFybGVzIFByb3h5IENBICgzIFNlcCAyMDE5
+			LCBFUEJZR09NVzA2OTgpMSUwIwYDVQQLDBxodHRwczovL2NoYXJs
+			ZXNwcm94eS5jb20vc3NsMREwDwYDVQQKDAhYSzcyIEx0ZDERMA8G
+			A1UEBwwIQXVja2xhbmQxETAPBgNVBAgMCEF1Y2tsYW5kMQswCQYD
+			VQQGEwJOWjAeFw0wMDAxMDEwMDAwMDBaFw00ODEwMzAxMTM1MTNa
+			MIGjMTQwMgYDVQQDDCtDaGFybGVzIFByb3h5IENBICgzIFNlcCAy
+			MDE5LCBFUEJZR09NVzA2OTgpMSUwIwYDVQQLDBxodHRwczovL2No
+			YXJsZXNwcm94eS5jb20vc3NsMREwDwYDVQQKDAhYSzcyIEx0ZDER
+			MA8GA1UEBwwIQXVja2xhbmQxETAPBgNVBAgMCEF1Y2tsYW5kMQsw
+			CQYDVQQGEwJOWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+			ggEBAJ15v8baEqWeGGhUe2xjpcGWlO1WXqWPvg4iYyRBKZTKOZ3c
+			Fh5AeVS/LP/3qmt/kGB0Upbkba4iaPsJz08+r2BnYjkPafx/zVOB
+			CQQLcQlbMIo/bZJx+v5lpYQr/24L3qdD7di9EQVnbh19IVzTlZah
+			MjfblHb9XuQNUYHVz67u1lIFmj8p02pJpwai3UulofXaJHboENsa
+			D30Xi35AXWHW0lQ2JvwwRv3dKMXFETydNvchdedFSrjsw3PPz/vG
+			G2wQczS1323LefXWiBJb+rQjaiYmyT64ogDbPmD+7cXgduTLJlRI
+			wT/b+aQfjReoeVpsYOP3yzhhHtwIeUdaFd8CAwEAAaOCAXQwggFw
+			MA8GA1UdEwEB/wQFMAMBAf8wggEsBglghkgBhvhCAQ0EggEdE4IB
+			GVRoaXMgUm9vdCBjZXJ0aWZpY2F0ZSB3YXMgZ2VuZXJhdGVkIGJ5
+			IENoYXJsZXMgUHJveHkgZm9yIFNTTCBQcm94eWluZy4gSWYgdGhp
+			cyBjZXJ0aWZpY2F0ZSBpcyBwYXJ0IG9mIGEgY2VydGlmaWNhdGUg
+			Y2hhaW4sIHRoaXMgbWVhbnMgdGhhdCB5b3UncmUgYnJvd3Npbmcg
+			dGhyb3VnaCBDaGFybGVzIFByb3h5IHdpdGggU1NMIFByb3h5aW5n
+			IGVuYWJsZWQgZm9yIHRoaXMgd2Vic2l0ZS4gUGxlYXNlIHNlZSBo
+			dHRwOi8vY2hhcmxlc3Byb3h5LmNvbS9zc2wgZm9yIG1vcmUgaW5m
+			b3JtYXRpb24uMA4GA1UdDwEB/wQEAwICBDAdBgNVHQ4EFgQUw2H7
+			f6pEjodR7MQ/zyp8F7rgKI8wDQYJKoZIhvcNAQELBQADggEBAHrx
+			iSUKDn67dMUrY7CAyn+VqCmX568FaSQxYXe9QAom0E6oExKdEYOJ
+			Xl5QDcWy8UYN1cdpEd++6jpvbfWWUCsxVJTaAmHzc3ZntW0or2vT
+			4G2u0R8NobYSshZcjQlmLrghrdXULuXnGHflNp15I1Qzgsvt64DM
+			qE10jZpJjGwWL5uX6FexvbG+7iVpi1gvytoCt0Rav9BtJXZEfSiQ
+			/45UqtUq8O8lBIseHaAxRQQ7WPLUAuLo2roF0DXisL32u3FgwtzQ
+			VYD5REKUW221KCcI+UKzzQLZMl5zcoeEPbcBgMIW3PlRgJzHGZ1O
+			Rueg7rPAbRNHbuATGeHhyH3xLE8=
+			</data>
+			<key>PayloadDescription</key>
+			<string>Adds a CA root certificate</string>
+			<key>PayloadDisplayName</key>
+			<string>Charles Proxy CA (3 Sep 2019, EPBYGOMW0698)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.5FAE7565-9DCA-4314-B52F-3AFCF60FB831</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>5FAE7565-9DCA-4314-B52F-3AFCF60FB831</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global.D27E64DF-6150-4732-B214-4C24FAFD6862</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>D27E64DF-6150-4732-B214-4C24FAFD6862</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<false/>
+			<key>ProxyServer</key>
+			<string>10.9.215.204</string>
+			<key>ProxyServerPort</key>
+			<integer>8888</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>tv Charles</string>
+	<key>PayloadIdentifier</key>
+	<string>Viktor-K.C5B03A59-BB86-4AEE-B421-A92F11F93DFC</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ECF17ED3-ED41-43F8-8894-4720A5231FA9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
